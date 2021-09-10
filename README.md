@@ -5,7 +5,7 @@ Api responsável por efetuar a conversão Metro para Quilômetro e Quilômetro p
 
 Executar via prompt de comando dentro da pasta /src: </br></br>
 `docker build -t marcioalmeidarosa/conversao-distancia:1.0 .`</br></br>
-Este comando irá gerar uma imagem local que conserá ter acesso executando o comando: </br></br>
+O comando descrito acima irá gerar uma imagem local que você conseguirá ter acesso executando o comando: </br></br>
 `docker images marcioalmeidarosa/conversao-distancia:1.0`
 
 ## Executando o container com a imagem local
